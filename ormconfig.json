@@ -1,0 +1,8 @@
+{
+  "type": "sqlite",
+  "database": "benchmark.db",
+  "entities": [
+    "src/entity/**/*.ts"
+  ],
+  "synchronize": true
+}
